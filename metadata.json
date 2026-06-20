@@ -1,0 +1,6 @@
+{
+  "name": "Evalo Mock Test Platform",
+  "description": "A premium mock test application for students to practice course exams (CCC, DCA, ADCA), track their performance, and review instant interactive feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
